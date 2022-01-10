@@ -1,1 +1,1 @@
-Just my website design from coding bootcamp I am following. 
+Just my website design from a coding bootcamp I am following. 
